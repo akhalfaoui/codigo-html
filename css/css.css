@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	width: 100%;
+}
+
+.backr {
+	background-color: red;
+	
+	width: 50%;
+	display: inline-block;
+}
+
+
+.backl {
+	display: inline-block;
+	background-color: blue;
+width: 50%;
+}
